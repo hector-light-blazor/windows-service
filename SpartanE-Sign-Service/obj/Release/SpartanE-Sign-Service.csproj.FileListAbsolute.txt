@@ -1,0 +1,11 @@
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\bin\Release\SpartanE-Sign-Service.exe.config
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\bin\Release\SpartanE-Sign-Service.exe
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\bin\Release\SpartanE-Sign-Service.pdb
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\obj\Release\SpartanE_Sign_Service.ProjectInstaller.resources
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\obj\Release\SpartanE-Sign-Service.csproj.GenerateResource.cache
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\obj\Release\SpartanE-Sign-Service.exe
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\obj\Release\SpartanE-Sign-Service.pdb
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\bin\Release\SpartanE-Sign-Service.exe.manifest
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\bin\Release\SpartanE-Sign-Service.application
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\obj\Release\SpartanE-Sign-Service.exe.manifest
+C:\Users\hchapa\source\repos\SpartanE-Sign-Service\SpartanE-Sign-Service\obj\Release\SpartanE-Sign-Service.application
